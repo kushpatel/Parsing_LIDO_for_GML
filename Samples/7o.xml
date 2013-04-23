@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lido:lido xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+ 
+    
+    <lido:lidoRecID lido:source="Yale Center for British Art" lido:type="local">YCBA/lido-TMS-7</lido:lidoRecID>
+ <lido:category> 
+  <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+        <lido:term xml:lang="eng">Man-Made Object</lido:term>
+    </lido:category>
+ 
+ 
+ <lido:descriptiveMetadata xml:lang="eng">
+ 
+  
+  <lido:objectClassificationWrap>
+  
+   <lido:objectWorkTypeWrap> 
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:type="Object name"/>
+     <lido:term>painting</lido:term>
+ 
+    </lido:objectWorkType>
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:type="Genre"/>
+     <lido:term>landscape</lido:term>
+ 
+    </lido:objectWorkType>
+    
+   </lido:objectWorkTypeWrap>
+ 
+   
+   <lido:classificationWrap>
+   
+    <lido:classification lido:type="local">
+     <lido:term>Painting</lido:term>
+    </lido:classification>
+   
+   </lido:classificationWrap>
+ 
+  
+  </lido:objectClassificationWrap>
+  
+  
+  
+  <lido:objectIdentificationWrap>
+  
+   <lido:titleWrap>
+   
+    <lido:titleSet lido:type="Repository title"> 
+     <lido:appellationValue lido:pref="preferred" xml:lang="eng">Canal under construction, possibly the Bude Canal</lido:appellationValue>
+ 
+    </lido:titleSet>
+   
+    <lido:titleSet lido:type="(not entered)"> 
+     <lido:appellationValue lido:pref="alternate" xml:lang="eng">The Building of a Canal (The Bude Canal?)</lido:appellationValue>
+ 
+    </lido:titleSet>
+    
+   </lido:titleWrap>
+  
+   
+   <lido:inscriptionsWrap> 
+                <lido:inscriptions lido:type="Inscription">
+                    <lido:inscriptionTranscription>No inscription</lido:inscriptionTranscription>
+                </lido:inscriptions>
+                <lido:inscriptions lido:type="Marks">
+                    <lido:inscriptionTranscription/>
+                </lido:inscriptions>
+    <lido:inscriptions lido:type="Lettering">
+                    <lido:inscriptionTranscription/>
+                </lido:inscriptions>
+                <lido:inscriptions lido:type="Signed and Dated">
+                    <lido:inscriptionTranscription>Not signed, not dated</lido:inscriptionTranscription>
+                </lido:inscriptions>
+            </lido:inscriptionsWrap>
+   
+            
+            <lido:repositoryWrap>
+    
+                <lido:repositorySet lido:type="current">
+                    
+                    <lido:repositoryName>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:repositoryName>
+                    <lido:workID lido:type="inventory number">B1975.1.15</lido:workID>
+     
+                    
+                 <lido:repositoryLocation>
+    
+     
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="SubSite">Not on View</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates/>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+      
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="Site">YCBA</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates/>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+       
+      <lido:partOfPlace>
+       <lido:placeID lido:source="TGN" lido:type="Geo location">tgn7014210</lido:placeID>
+       <lido:namePlaceSet>
+        <lido:appellationValue>New Haven</lido:appellationValue>
+           
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3000, -72.9160</gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+   
+                    </lido:repositoryLocation>
+    
+                </lido:repositorySet>
+    
+       </lido:repositoryWrap>
+   
+            <lido:displayStateEditionWrap>
+    
+    
+    
+            </lido:displayStateEditionWrap>
+           <lido:objectDescriptionWrap> 
+    <lido:objectDescriptionSet>     
+   
+     </lido:objectDescriptionSet>
+   </lido:objectDescriptionWrap>
+   
+   
+            <lido:objectMeasurementsWrap>
+    
+                <lido:objectMeasurementsSet>
+                    <lido:displayObjectMeasurements>12 1/16 x 16 inches (30.6 x 40.6 cm)</lido:displayObjectMeasurements>
+     <lido:objectMeasurements>
+     
+      <lido:measurementsSet>
+       <lido:measurementType>width</lido:measurementType>
+       <lido:measurementUnit> cm</lido:measurementUnit>
+  
+            
+       <lido:measurementValue>40.6</lido:measurementValue>
+      </lido:measurementsSet>
+     
+      <lido:measurementsSet>
+       <lido:measurementType>height</lido:measurementType>
+       <lido:measurementUnit> cm</lido:measurementUnit>
+  
+            
+       <lido:measurementValue>30.6</lido:measurementValue>
+      </lido:measurementsSet>
+     
+      <lido:extentMeasurements>Support (PTG)</lido:extentMeasurements>
+                                   
+      <lido:qualifierMeasurements/>
+ 
+      
+     
+     
+     </lido:objectMeasurements>
+    </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+   
+   
+  </lido:objectIdentificationWrap>
+  
+  
+  <lido:eventWrap>
+   <lido:eventSet>
+    <lido:event>
+     <lido:eventType>
+      <lido:term>creation</lido:term>
+                    </lido:eventType>
+     
+     <lido:eventActor>
+     
+     
+                        
+      
+       
+       
+      
+       
+        <lido:displayActorInRole>Unknown artist, 19th century, British</lido:displayActorInRole>
+       
+       
+       
+       
+                        
+       
+       
+      
+       
+        <lido:displayActorInRole>Formerly attributed to Benjamin Williams Leader, 1831-1923, British</lido:displayActorInRole>
+       
+       
+       
+       
+                           
+      
+     
+       
+      
+     
+      <lido:actorInRole>
+                            <lido:actor lido:type="personalName"> 
+                   <lido:actorID lido:source="Oxford Dictionary of National Biography" lido:type="local">
+        </lido:actorID>
+  
+           
+                        
+       <lido:nameActorSet>
+                  
+                                    <lido:appellationValue lido:pref="alternate">Unknown artist</lido:appellationValue>
+                  
+                                    <lido:appellationValue lido:pref="preferred">Unknown artist</lido:appellationValue>
+                  
+                                    <lido:appellationValue lido:pref="alternate">Unknown framemaker</lido:appellationValue>
+                  
+                                    <lido:appellationValue lido:pref="alternate">B. W. Leader</lido:appellationValue>
+                  
+                                    <lido:appellationValue lido:pref="alternate">Benjamin Leader Williams</lido:appellationValue>
+                  
+                                    <lido:appellationValue lido:pref="preferred">Benjamin Williams Leader</lido:appellationValue>
+        
+       </lido:nameActorSet>
+        
+        
+        
+                                <lido:vitalDatesActor>
+                                    <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                                    <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                                </lido:vitalDatesActor>
+          
+                                <lido:genderActor>unknown</lido:genderActor>
+        
+ 
+                            </lido:actor>
+      
+        
+       <lido:roleActor>
+        <lido:conceptID lido:type="object related role"/>
+        <lido:term>Artist</lido:term>
+       </lido:roleActor>
+        
+       <lido:roleActor>
+        <lido:conceptID lido:type="object related role"/>
+        <lido:term>Formerly attributed to</lido:term>
+       </lido:roleActor>
+       
+       
+      
+      
+      
+       <lido:attributionQualifierActor/>
+ 
+      
+      
+       <lido:extentActor>19th century</lido:extentActor>
+ 
+       
+       
+      </lido:actorInRole>
+     </lido:eventActor>
+            
+        
+        
+     
+     <lido:culture>
+     
+      <lido:term>British</lido:term>
+                    
+     </lido:culture>
+      
+     
+   
+     
+                    <lido:eventDate>
+                        <lido:displayDate>ca. 1840</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1835</lido:earliestDate>
+                            <lido:latestDate>1845</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                    
+                    <lido:periodName>
+                        <lido:term>19th century</lido:term>
+ 
+                    </lido:periodName>
+     
+       
+           
+     
+     
+                      
+                    <lido:eventMaterialsTech>
+                        <lido:displayMaterialsTech>Oil on canvas</lido:displayMaterialsTech>
+      
+     <lido:materialsTech>
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="medium" lido:source="AAT">aat15050</lido:conceptID>
+                                <lido:term>oil paint</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="support" lido:source="AAT">aat14078</lido:conceptID>
+                                <lido:term>canvas</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+     
+    </lido:event>
+            </lido:eventSet>
+   
+   
+   
+            <lido:eventSet>
+                <lido:displayEvent/>
+  
+                <lido:event>
+                    <lido:eventType>
+                        <lido:term>provenance</lido:term>
+                    </lido:eventType>
+                </lido:event>
+            </lido:eventSet>
+   
+            
+            <lido:eventSet>
+              
+      
+                <lido:event>
+                    <lido:eventType>
+                        <lido:term>publication</lido:term>
+                    </lido:eventType>
+                </lido:event>
+ 
+            </lido:eventSet>
+  
+            
+            <lido:eventSet>      
+     
+    <lido:displayEvent>The Story of The Farmington Canal " ... a work which is itself magnificent... ", 1995-1996</lido:displayEvent>
+     
+    <lido:displayEvent>Roads to Rails - Revolution in British Transport, 1992</lido:displayEvent>
+     
+    <lido:event>
+     <lido:eventType> 
+      <lido:term>exhibition history</lido:term>
+ 
+     </lido:eventType>
+                </lido:event>
+            </lido:eventSet>
+   
+            
+   
+            <lido:eventSet>
+       
+            </lido:eventSet>
+  </lido:eventWrap>
+  
+    
+        
+  
+  <lido:objectRelationWrap>
+  
+  
+  
+            <lido:subjectWrap>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat55244</lido:conceptID>
+        <lido:term>transportation</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat25886</lido:conceptID>
+        <lido:term>workers</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat239493</lido:conceptID>
+        <lido:term>boats</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat54608</lido:conceptID>
+        <lido:term>construction</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat54608</lido:conceptID>
+        <lido:term>building</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat11734</lido:conceptID>
+        <lido:term>dirt</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat10362</lido:conceptID>
+        <lido:term>cement</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat1497</lido:conceptID>
+        <lido:term>beams (structural elements)</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat6075</lido:conceptID>
+        <lido:term>canal</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat82981</lido:conceptID>
+        <lido:term>ship</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+     
+       <lido:subjectConcept>
+        <lido:conceptID lido:source="AAT" lido:type="local">aat15636</lido:conceptID>
+        <lido:term>landscape</lido:term>
+       </lido:subjectConcept>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="iconography">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn0</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>river</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates/>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="geographicName">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn1000003</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>Europe</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates>0.0000, 0.0000</gml:coordinates>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="geographicName">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn1130564</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>Tamar</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates>0.0000, 0.0000</gml:coordinates>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="geographicName">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn7002445</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>England</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates>53.0000, -2.0000</gml:coordinates>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="geographicName">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn7008591</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>United Kingdom</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates>54.0000, -4.5000</gml:coordinates>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="geographicName">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn7008116</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>Cornwall</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates>50.4830, -4.6660</gml:coordinates>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+     
+    <lido:subjectSet> 
+    <lido:subject lido:type="geographicName">
+       
+       <lido:subjectPlace>
+        <lido:place>
+         <lido:placeID lido:source="TGN" lido:type="local">tgn1028682</lido:placeID>
+         <lido:namePlaceSet>
+          <lido:appellationValue>Bude</lido:appellationValue>
+         </lido:namePlaceSet>
+         <lido:gml>
+          <gml:Point>
+           <gml:coordinates>50.8330, -4.5500</gml:coordinates>
+          </gml:Point>
+         </lido:gml>
+        </lido:place>
+       </lido:subjectPlace>
+      
+     </lido:subject>
+     </lido:subjectSet>
+    
+            </lido:subjectWrap>
+ 
+  
+            <lido:relatedWorksWrap>
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject/>
+     </lido:relatedWork>
+    </lido:relatedWorkSet>
+ 
+   </lido:relatedWorksWrap>
+   
+  </lido:objectRelationWrap>
+  
+ </lido:descriptiveMetadata>
+ 
+ 
+ 
+ <lido:administrativeMetadata xml:lang="eng">
+        <lido:rightsWorkWrap>
+            <lido:rightsWorkSet>
+    <lido:rightsType>
+     <lido:conceptID lido:type="object copyright">public domain</lido:conceptID>
+     <lido:term/>
+ 
+        </lido:rightsType>
+        
+        <lido:rightsHolder>
+            <lido:legalBodyID lido:type=""/>
+            <lido:legalBodyName>
+                <lido:appellationValue>Public Domain</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink/>
+        </lido:rightsHolder>
+                <lido:creditLine>Yale Center for British Art, Paul Mellon Collection</lido:creditLine>
+            </lido:rightsWorkSet>
+        </lido:rightsWorkWrap>
+        
+        <lido:recordWrap>
+            <lido:recordID lido:type="local">7</lido:recordID>
+            
+            <lido:recordType>
+                <lido:term>Item</lido:term>
+  
+            </lido:recordType>
+            <lido:recordSource>
+                <lido:legalBodyID lido:type="boilerplate">Yale Center for British Art</lido:legalBodyID>
+                <lido:legalBodyName>
+     <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                </lido:legalBodyName>
+    <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+            </lido:recordSource>
+   
+   
+            <lido:recordInfoSet>
+                <lido:recordInfoLink lido:formatResource="html">http://collections.britishart.yale.edu/vufind/Record/1670806</lido:recordInfoLink>
+            </lido:recordInfoSet>
+            <lido:recordInfoSet>
+                <lido:recordInfoID lido:type="YCBA URL">oai:tms.ycba.yale.edu:7</lido:recordInfoID>
+            </lido:recordInfoSet>
+        </lido:recordWrap>
+        <lido:resourceWrap>
+            <lido:resourceSet><lido:resourceRepresentation lido:type="original"><lido:linkResource lido:formatResource="jpg">7.jpg</lido:linkResource></lido:resourceRepresentation><lido:resourceType>
+                    <lido:term>digital image</lido:term>
+                </lido:resourceType><lido:resourceSource lido:type="holder of image">
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:resourceSource><lido:rightsResource>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="URL">http://britishart.yale.edu/collections/using-collections/image-use</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:rightsHolder>
+                </lido:rightsResource></lido:resourceSet>
+            
+        </lido:resourceWrap>
+    </lido:administrativeMetadata>
+ 
+</lido:lido>
+

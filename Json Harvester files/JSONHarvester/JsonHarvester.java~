@@ -1,0 +1,31 @@
+package JSONHarvester;
+import java.io.*;
+
+public class JsonHarvester
+{
+  
+  private final static int workingDir = 0;
+  private final static int jarExec = 1;
+  private final static int xslFile = 2;
+  private final static int sourcePath = 3;
+  private final static int outputFile = 4;
+  private final static int errorLog = 5;
+  private final static int gatherErrorLog = 6;
+  
+  private final static int numArgs = 8;
+  
+  public static void main(String [] args)throws FileNotFoundException, IOException
+  {
+    String[] arguments = new String[numArgs];
+    
+    arguments[workingDir] = "C:\\Parsing_LIDO_for_GML";                 //should be where the saxon9he.jar is located
+    arguments[jarExec] = "saxon9he.jar";                                //name of the jar package to execute
+    arguments[xslFile] = "C:\\Parsing_LIDO_for_GML\\xml_extract.xsl";   //full path to where the xsl file is located
+    arguments[sourcePath] = "C:\\Users\\acdr4\\Desktop\\RDFer_v3\\harvest\\data\\lido";          //full path to where the source xml files are
+    arguments[outputFile] = "C:\\Users\\acdr4\\Desktop\\out.json";                                 //name of the output file...default path is in the working dir
+    arguments[errorLog] = "C:\\Parsing_LIDO_for_GML\\error_log_json.txt";  //full path to where the error log file to write is located
+    arguments[gatherErrorLog] = ""; //"C:\\Parsing_LIDO_for_GML\\Error_Logs\\error_log_json1.txt";   //full path of where to gather error log files from
+    
+    XmlToJson.harvestJson(arguments);
+  }
+}

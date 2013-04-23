@@ -1,0 +1,10 @@
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido1-1000\oai_tms.ycba.yale.edu_1437.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido1-1000\oai_tms.ycba.yale.edu_1525.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido1-1000\oai_tms.ycba.yale.edu_1526.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido1001-2000\oai_tms.ycba.yale.edu_320.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido2001-3000\oai_tms.ycba.yale.edu_41109.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido3001-4000\oai_tms.ycba.yale.edu_4936.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido3001-4000\oai_tms.ycba.yale.edu_5228.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido3001-4000\oai_tms.ycba.yale.edu_5659.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido4001-5000\oai_tms.ycba.yale.edu_6318.xml
+C:\Parsing_LIDO_for_GML\bac4-lido\bac4-lido5001-6000\oai_tms.ycba.yale.edu_9429.xml

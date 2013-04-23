@@ -1,0 +1,21 @@
+# full path to the working directory for the program
+workingDir = C:\Parsing_LIDO_for_GML
+
+# name of the sax parser jar file which should be located in working directory path
+jarExec = saxon9he.jar
+
+# location of the xsl file that specifies what to extract from XML
+xslFile = C:\Parsing_LIDO_for_GML\xml_extract.xsl
+
+# location of the XML files from which to harvest JSON
+sourcePath = C:\Users\acdr4\Desktop\RDFer_v3\harvest\data\lido
+
+# location of the output JSON file
+outputFile = C:\Users\acdr4\Desktop\out.json
+
+# location of the error log of XML files with JSONExceptions
+errorLog = C:\Parsing_LIDO_for_GML\error_log_json.txt
+
+# specified if want to rerun the program on files with JSONException
+# default is NONE
+gatherErrorLog = NONE
